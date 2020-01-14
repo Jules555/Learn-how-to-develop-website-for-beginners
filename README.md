@@ -5,6 +5,6 @@
 #### you must have basic knowledge on html and css 
 
 ### We will use:
-*HTML5
-*CSS
-*Javascript
+* HTML5
+* CSS
+* Javascript
