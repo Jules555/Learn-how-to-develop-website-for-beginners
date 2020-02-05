@@ -453,4 +453,31 @@ animation_h1_bg_reveal_uncover 3s ease-out 2s forwards;
      margin: 10px;
      color: grey;
  }
+.post_image:hover img{
+     transform: scale(1.06);
+     filter:brightness(.6);
+ }
+
+/*-------------------------------------------
+          contact us
+-------------------------------------------*/
+ #contact-us{
+     color: white;
+     background-color: black;
+ }
+
+ #contact-us a{
+     color: white;
+ }
+
+ #contact-us a:hover{
+     text-decoration: none;
+     color: yellow;
+ }
+ #contact-us address{
+     font-size: 15px;
+     font-weight:400 ;
+     line-height:27px ;
+     margin-bottom: 30px;
+ }
 
