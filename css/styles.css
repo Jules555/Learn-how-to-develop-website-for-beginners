@@ -480,4 +480,9 @@ animation_h1_bg_reveal_uncover 3s ease-out 2s forwards;
      line-height:27px ;
      margin-bottom: 30px;
  }
-
+ /*-------------------------------------------
+       footer
+-------------------------------------------*/
+footer{
+    margin: 10px 0px;
+}
